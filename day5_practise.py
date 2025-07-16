@@ -1,10 +1,4 @@
 x=426
-print("the middle digit is: ", (str(x)[1:2]))
-
-x=426
-print("the middle num is: ", (str(x)[1:2]))
-
-x=426
 print("the middle num is: ", (str(x)[1:2]))
 
 print("20205","07","15",sep="-")
